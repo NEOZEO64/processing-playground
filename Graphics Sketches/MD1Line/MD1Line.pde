@@ -1,0 +1,1 @@
+float x=0;float y=0;float vx=2;float vy=3;void setup(){fullScreen();}void draw(){x+=vx;y+=vy;background(0);rect(x,y,20,20);if((x>1900&&vx>0)||(x<0&&vx<0)){vx=-vx;}if((y>1060&&vy>0)||(y<0&&vy<0)){vy=-vy;}}
