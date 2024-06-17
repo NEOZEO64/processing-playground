@@ -4,8 +4,6 @@ hello, so when I'm bored and have a computer in front of me, I tend to do weird 
 
 ## Gallery
 
-(see my google photos for more: )
-
 <img src='./Wallpapers/NOTITLE12.png' width=70%>
 
 <img src='./Wallpapers/NOTITLE13.png' width=70%>
